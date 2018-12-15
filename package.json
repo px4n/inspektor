@@ -1,0 +1,13 @@
+{
+  "name": "inspektor",
+  "version": "0.0.1",
+  "description": "Activity monitor for CPU.",
+  "repository": "px4n/inspektor",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "devDependencies": {
+    "electron": "^3.0.2"
+  }
+}
